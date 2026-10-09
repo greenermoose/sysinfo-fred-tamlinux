@@ -1,5 +1,9 @@
 # System Information & Hardware Monitor (`fred.sysinfo`)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.sysinfo` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.sysinfo/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.sysinfo).
+
+
 Comprehensive hardware telemetry, thermal sensors, and system information bar plugin for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment; Hyprland + Quickshell).
 
 ![Resource summary hover](assets/hover.png)
